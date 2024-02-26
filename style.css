@@ -1,0 +1,95 @@
+.container{
+    width: 1600px;
+    height: 3100px;
+    margin: 0 auto;
+    background: #0C0C0C;
+}
+.navbar{
+    display: flex;
+    width: 1600px;
+    height: 50px;
+}
+.btn{
+    width: 250px;
+    height: 60px;
+    border-radius: 13px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 245px;
+    text-align: center;
+    font-size: 36px;
+    background-color: green;
+}
+.btm{
+    width: 150px;
+    height: 60px;
+    border-radius: 13px;
+    color: white;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 445px;
+}
+.navbar p{
+    display: flex;
+    color: white;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.row img{
+    margin-top: 180px;
+}
+.foot{
+    display: flex;
+}
+.foot p{
+    margin-top: 20px;
+    color: white;
+    margin-left: 40px;
+}
+.imgs{
+    
+    margin-top: 30px;
+   margin-left: 50px;
+}
+.map img{
+    margin-top: 50px;
+}
+.footer .btm{
+    margin-left: 150px;
+    width: 216px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 4px solid #06600F;
+}
+.footer .btm h1{
+    margin-top: -3px;
+    font-size: 37px;
+}
+.footer h2{
+    margin-top: -35px;
+    margin-left: 1200px;
+    color: white;
+}
+.footer p{
+    margin-top: 100px;
+    display: flex;
+    display: flex;
+    color: white;
+    margin-left: 830px;
+}
+.nac p{
+    color: white;
+    margin-top: -35px;
+    margin-left: 760px;
+}
+.contact{
+    color: white;
+    margin-left: 670px;
+    margin-top: -35px;
+}
+.past-navbar p{
+    color: white;
+    margin-top: 100px;
+    margin-left: 620px;
+}
